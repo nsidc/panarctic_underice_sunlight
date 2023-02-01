@@ -38,6 +38,9 @@ The `seaicert` package, a wrapper for the CCSM Delta-Eddington radiative transfe
 
 {troubleshooting}
 
+## Contributing
+
+See the [contributing guide](docs/contributing.md)
 
 ## License
 
